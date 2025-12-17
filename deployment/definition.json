@@ -1,0 +1,12 @@
+{
+    "id": "MUSC.HospitalMortality@1.0.0",
+    "manifest": {
+        "description": "Predicts likelihood of mortality within 24 hours",
+        "ondemandDefinition": {
+            "entryName": "predict",
+            "externalResources": [],
+            "package": "src/model_code.py"
+        }
+    },
+    "name": "MUSC.HospitalMortality"
+}

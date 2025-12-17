@@ -1,0 +1,157 @@
+ABG,arterial blood gas
+ACE,angiotensin converting enzyme
+ACTH,adrenocorticotropic hormone
+ADH,antidiuretic hormone
+AED,automated external defibrillator
+AIDS,acquired immunodeficiency syndrome
+ALP,alkaline phosphatase
+ALT,alanine aminotransferase
+ASA,acetylsalicylic acid
+AST,aspartate aminotransferase
+ATP,adenosine triphosphate
+BCG,bacille Calmette Guerin
+bid,two times a day
+BLS,basic life support
+BMR,basal metabolic rate
+BP,blood pressure
+BSA,body surface area
+BUN,blood urea nitrogen
+BR,bedside rounds
+BPD,borderline personality disorder
+Ca,calcium
+cAMP,cyclic adenosine monophosphate
+CBC,complete blood count
+cGy,centigray
+Ci,curie
+CK,creatine kinase
+Cl,chlorine
+cm,centimeter
+CNS,central nervous system
+CO2,carbon dioxide
+COPD, chronic obstructivepulmonary disease
+CPK, creatinephosphokinase
+CPK-MB,creatine phosphokinase muscle bandisoenzyme
+CPR,cardiopulmonary resuscitation
+CSF,cerebrospinal fluid
+CT,computed tomography
+Cu,cubic
+D & C,dilation and curettage
+dL,deciliter
+DNA,deoxyribonucleic acid
+DTP,diphtheria-tetanus-pertussis
+D/W,dextrose in water
+ECF,extracellular fluid
+ECG,electrocardiogram
+EEG,electroencephalogram
+EGD,esophagogastroduodenoscopy
+ENT,ear nose and throat
+ERCP,endoscopic retrograde cholangiopancreatography
+ESR,erythrocyte sedimentation rate
+F,Fahrenheit
+Ft,feet
+FUO,fever of unknown origin
+G,gram
+GFR,glomerular filtration rate
+GI,gastrointestinal
+GVHD,Graft versus host disease
+G6PD,glucose6 phosphate dehydrogenase
+GU,genitourinary
+Gy,gray
+H,hour
+Hb,hemoglobin
+HCl,hydrochloric
+HCO3,bicarbonate
+Hct,hematocrit
+Hg,mercury
+HIV,human immunodeficiency virus
+HLA,human leukocyte antigen
+HMG-CoA,hydroxymethyl glutaryl coenzyme A
+Hz,hertz
+hs,at bedtime
+ICF,intracellular fluid
+IgA,etc immunoglobin A
+IL,interleukin
+IM,intramuscular
+INR,international normalized ratio
+IPPB,intermittent positive pressure breathing
+IV,intravenous
+IVU,intravenous urography
+K,potassium
+kcal,kilocalorie
+kg,kilogram
+L,liter
+lb,pound
+LDH,lactic dehydrogenase
+LDLc,low density lipoprotein cholesterol
+M,molar
+MCH,mean corpuscular hemoglobin
+MCHC,mean corpuscular hemoglobin concentration
+mCi,millicurie
+MCV,mean corpuscular volume
+mEq,Milliequivalent
+Mg,magnesium
+mg,milligram
+MI,myocardial infarction
+MIC,minimum inhibitory concentration
+mIU,milli-international unit
+mL,milliliter
+mm,millimeter
+mmol,millimole
+mo,month
+mol,molecular weight
+mOsm,Milliosmole
+MRI,magnetic resonance imaging
+Na,sodium
+NaCl,sodium chloride
+ng,nanogram
+nm,nanometer
+nmol,nanomole
+Npo,nothingg by mouth
+NSAID,nonsteroidal antiinflammatory drug
+O2,oxygen
+OTC,overthecounter 
+oz,ounce
+PAco2,alveolar carbon dioxide partial pressure
+Paco2,arterial carbon dioxide partial pressure
+PAo2,alveolar oxygen partial pressure
+Pao2,arterial oxygen partial pressure
+PAS,periodic acid Schiff
+Pco2,carbon dioxide partial pressure
+PCR,polymerase chain reaction
+PET,positron emission tomography
+pg,picogram
+pH,hydrogen ion concentration
+PMN,polymorphonuclear leukocyte
+po,orally
+Po2,oxygen partial pressure 
+PPD,purified protein derivative 
+ppm,parts per million
+prn, as needed
+PT,prothrombin time
+PTT,partial thromboplastin time
+q,every
+qid,four times a day
+RA,rheumatoid arthritis
+RBC,red blood cell
+RNA,ribonucleic acid
+Sao2,arterial oxygen saturation
+SBE,subacute bacterial endocarditis
+sc,subcutaneous
+SIDS,sudden infant death syndrome
+SLE,systemic lupus erythematosus
+soln,solution
+sp,species
+spp,species
+sp gr,specific gravity
+sq,square
+SSRI,selective serotonin reuptake inhibitor
+STS,serologic test for syphilis
+T&A,tonsillectomy and adenoidectomy
+TB,tuberculosis
+TIBC,total iron binding capacity
+tid,three times a day
+TPN,total parenteral nutrition
+URI,upper respiratory infection
+UTI,urinary tract infection
+WBC,white blood cell
+wt,weight
